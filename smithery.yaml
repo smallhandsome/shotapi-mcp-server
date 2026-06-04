@@ -1,0 +1,17 @@
+# Smithery configuration for ShotAPI MCP Server
+startCommand:
+  type: stdio
+  configSchema:
+    type: object
+    properties:
+      shotapi_key:
+        type: string
+        title: ShotAPI API Key
+        description: Optional API key for paid tiers (starter/pro/business). Free tier works without a key.
+    default: {}
+  commandFunction:
+    - python
+    - mcp_stdio.py
+  args:
+    - --shotapi-key
+    - ${{config.shotapi_key||''}}
