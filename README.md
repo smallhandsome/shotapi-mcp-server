@@ -2,6 +2,8 @@
 
 Give your AI Agent eyes. One command, zero install.
 
+[![Product Hunt](https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=960936&theme=light&period=daily)](https://www.producthunt.com/posts/shotapi)
+
 [中文文档](README_CN.md)
 
 ## Quick Start (Remote Mode — No Install)
