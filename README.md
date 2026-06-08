@@ -40,7 +40,7 @@ The `render` tool closes the feedback loop: **write code → render → see → 
 - **MCP-native** — No glue code. Agent calls tools directly in conversation.
 - **Zero install remote mode** — streamable-http, no Python/Playwright needed.
 - **Direct China access** — No VPN required. WeChat/Alipay payment.
-- **Free tier** — 100 screenshots + 100 renders/month, IP-based, no signup.
+- **Free tier** — 30 screenshots + 30 renders/month, IP-based, no signup.
 - **Render capability** — Not just screenshots of existing pages. Render Agent-generated HTML.
 - **Built-in ad blocking** — Cleaner screenshots, less noise.
 
@@ -54,10 +54,9 @@ curl -s "https://aiphotoshop.mynatapp.cc/v1/screenshot?url=https://github.com" -
 
 | Plan | Price | Limit |
 |------|-------|-------|
-| Free | $0 | 100+100/month (IP-based) |
+| Free | $0 | 30+30/month (IP-based) |
 | Starter | $4.90/mo | 5,000/month |
 | Pro | $9.90/mo | 20,000/month |
-| Business | $29.90/mo | 100,000/month |
 
 Free tier: no API key needed. Paid: get key at [pricing page](https://aiphotoshop.mynatapp.cc/pricing).
 
