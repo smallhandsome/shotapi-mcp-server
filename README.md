@@ -2,6 +2,8 @@
 
 Give your AI Agent eyes. One command, zero install.
 
+[中文文档](README_CN.md)
+
 ## Quick Start (Remote Mode — No Install)
 
 ```bash
