@@ -1,5 +1,8 @@
 # ShotAPI — AI Agent 网页截图与渲染 MCP Server
 
+[![Product Hunt](https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=960936&theme=light&period=daily)](https://www.producthunt.com/posts/shotapi)
+
+
 给你的 AI Agent 一双眼睛。一行命令接入，零安装。
 
 ## 快速接入（远程模式 — 不需要安装）
