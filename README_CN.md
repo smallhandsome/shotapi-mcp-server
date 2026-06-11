@@ -79,7 +79,7 @@ curl -s "https://aiphotoshop.mynatapp.cc/v1/screenshot?url=https://staging.myapp
 - **MCP原生** — 不需要写胶水代码。Agent在对话中直接调用工具。
 - **零安装远程模式** — streamable-http，不需要装Python/Playwright/Chromium。
 - **国内直连** — 不需要翻墙。
-- **免费层** — 100截图+100渲染/月，IP限流，不需要注册，不需要API Key。
+- **免费层** — 10截图+10渲染/月，IP限流，不需要注册，不需要API Key。
 - **渲染能力** — 不只是截已有网页。Agent写的HTML也能渲染成图片。
 - **内置广告屏蔽** — 截图更干净。
 - **MCP Registry收录** — Anthropic官方MCP服务器目录。
@@ -94,7 +94,7 @@ curl -s "https://aiphotoshop.mynatapp.cc/v1/screenshot?url=https://github.com" -
 
 | 方案 | 价格 | 额度 |
 |------|------|------|
-| 免费 | ¥0 | 100截图+100渲染/月（IP限流，无需注册） |
+| 免费 | ¥0 | 10截图+10渲染/月（IP限流，无需注册） |
 | 标准版 | ¥29/月 | 5,000次/月 |
 | 专业版 | ¥99/月 | 20,000次/月 |
 
