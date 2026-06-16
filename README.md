@@ -79,7 +79,7 @@ The `render` tool closes the feedback loop: **write code → render → see → 
 - **MCP-native** — No glue code. Agent calls tools directly in conversation.
 - **Zero install remote mode** — streamable-http, no Python/Playwright needed.
 - **Direct China access** — No VPN required.
-- **Free tier** — 10 screenshots + 10 renders/month, IP-based, no signup, no API key.
+- **Free tier** — 50 screenshots + 50 renders/month, IP-based, no signup, no API key. All features unlocked (full-page, selector, WebP).
 - **Render capability** — Not just screenshots of existing pages. Render Agent-generated HTML.
 - **Built-in ad blocking** — Cleaner screenshots, less noise.
 - **Listed in MCP Registry** — Official Anthropic MCP server directory.
@@ -94,7 +94,7 @@ curl -s "https://aiphotoshop.mynatapp.cc/v1/screenshot?url=https://github.com" -
 
 | Plan | Price | Limit |
 |------|-------|-------|
-| Free | $0 | 10+10/month (IP-based, no signup) |
+| Free | $0 | 50+50/month (IP-based, all features, no signup) |
 | Starter | $4.90/mo | 5,000/month |
 | Pro | $9.90/mo | 20,000/month |
 

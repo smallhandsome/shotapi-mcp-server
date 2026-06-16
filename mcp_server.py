@@ -1,8 +1,8 @@
 """ShotAPI MCP Server — standalone version for Smithery/stdio deployment
 
 Connects to remote ShotAPI API via HTTP. No local Playwright needed.
-- Free tier: IP-based, 100+100/month, no API key
-- Paid tier: SHOTAPI_KEY env var → 20K+ calls/month
+- Free tier: IP-based, 50+50/month, no API key, all features unlocked
+- Paid tier: SHOTAPI_KEY env var → 5K-20K calls/month
 """
 
 import asyncio
