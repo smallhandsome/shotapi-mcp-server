@@ -1,0 +1,13 @@
+{
+  "name": "shotapi",
+  "displayName": "ShotAPI",
+  "version": "0.2.0",
+  "description": "Web screenshot & HTML render MCP Server. Give your AI agent eyes to see the web — capture pages, extract elements, render HTML/CSS visually.",
+  "author": {
+    "name": "ljs",
+    "email": "ljs930406@gmail.com"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "screenshot", "render", "html", "web", "ai-agent", "claude", "cursor"],
+  "logo": "assets/logo.svg"
+}
