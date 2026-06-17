@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "shotapi": {
+      "url": "https://aiphotoshop.mynatapp.cc/mcp",
+      "transport": "streamable-http"
+    }
+  }
+}
